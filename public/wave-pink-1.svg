@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1300" height="222.222" viewBox="0 0 1300 222.222">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fabea7" stop-opacity="0.278"/>
+      <stop offset="1" stop-color="#fabea7" stop-opacity="0.09"/>
+    </linearGradient>
+  </defs>
+  <path id="wave-pink" d="M705,1722H2005V1500s-48.985-8-127.053,72-140.83,125.333-286.253,102.667S1316.157,1616,1215.126,1620s-120.93,38.667-244.922,46.667S705,1645.333,705,1645.333Z" transform="translate(-705 -1499.778)" opacity="0.67" fill="url(#linear-gradient)"/>
+</svg>
