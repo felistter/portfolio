@@ -18,7 +18,10 @@ const Works = () => {
               <a href="https://github.com/felistter/photo-blog" target="_blank">
                 <FontAwesomeIcon icon={["fab", "github"]} />
               </a>
-              <a href="#" target="_blank">
+              <a
+                href="https://photo-blog-git-main-felistter.vercel.app"
+                target="_blank"
+              >
                 <FontAwesomeIcon icon={["fas", "globe"]} />
               </a>
             </div>
@@ -58,10 +61,16 @@ const Works = () => {
             <h2>MyMEMO</h2>
             <p>Public platform for sharing thoughts on any subject</p>
             <div className="links-container">
-              <a href="https://github.com/felistter/photo-blog" target="_blank">
+              <a
+                href="https://github.com/felistter/mymemo-blog"
+                target="_blank"
+              >
                 <FontAwesomeIcon icon={["fab", "github"]} />
               </a>
-              <a href="#" target="_blank">
+              <a
+                href="https://mymemo-blog-felistter.vercel.app"
+                target="_blank"
+              >
                 <FontAwesomeIcon icon={["fas", "globe"]} />
               </a>
             </div>
@@ -106,10 +115,10 @@ const Works = () => {
               materials
             </p>
             <div className="links-container">
-              <a href="https://github.com/felistter/photo-blog" target="_blank">
+              <a href="https://github.com/felistter/xrd-reader" target="_blank">
                 <FontAwesomeIcon icon={["fab", "github"]} />
               </a>
-              <a href="#" target="_blank">
+              <a href="https://xrd-reader.vercel.app" target="_blank">
                 <FontAwesomeIcon icon={["fas", "globe"]} />
               </a>
             </div>
