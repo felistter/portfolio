@@ -111,7 +111,7 @@ body {
       flex-direction: row;
       justify-content: center;
       height: 80%;
-      min-height: 750px;
+
       @media only screen and (max-width: 1400px) {
         height: 60%;
         margin-top: 40px;
@@ -166,7 +166,7 @@ body {
           border: 0;
           width: 200px;
           min-height: 70px;
-          border-radius: 15px;
+          border-radius: 20px;
           font-family: $font-main;
           cursor: pointer;
           &:hover {
@@ -178,11 +178,11 @@ body {
           }
           @media only screen and (max-width: 1400px) {
             width: 150px;
-            height: 100px;
+            min-height: 60px;
             margin-top: 30px;
             margin-left: 135px;
             font-size: 18px;
-            border-radius: 10px;
+            border-radius: 15px;
           }
         }
       }
@@ -900,14 +900,14 @@ body {
           border: 0;
           width: 200px;
           min-height: 70px;
-          border-radius: 15px;
+          border-radius: 20px;
           font-family: $font-main;
           cursor: pointer;
           @media only screen and (max-width: 1400px) {
-            width: 160px;
-            height: 60px;
+            width: 150px;
+            min-height: 60px;
             font-size: 18px;
-            border-radius: 10px;
+            border-radius: 15px;
             padding: 10px 10px;
             margin-right: 50px;
           }
