@@ -11,7 +11,7 @@ const Navbar = () => {
         <p>
           CALL ME. +49 (171) 815-15-28 / SVETLANA.N.SHKARINA@GMAIL.COM /{" "}
           <a
-            href="https://drive.google.com/file/d/1OaCQ4TrImJodOS_Mum4BnYQh1tYiGeIs/view?usp=sharing"
+            href="https://drive.google.com/file/d/1da7iEgd7AObcG3q8N05xCdhhI_P6YYkl/view?usp=sharing"
             className="cv"
             target="_blank"
           >
