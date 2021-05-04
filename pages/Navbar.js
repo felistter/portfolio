@@ -22,7 +22,7 @@ const Navbar = () => {
 
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/svetlana-shkarina-ph-d-84a80658/"
+          href="https://www.linkedin.com/in/svetlana-shkarina"
           target="_blank"
         >
           <FontAwesomeIcon icon={["fab", "linkedin-in"]} />
